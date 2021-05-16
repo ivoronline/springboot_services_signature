@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Person>
+  <name> John </name>
+  <age>  20   </age>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>WdIvVc0beHaT8NU8NQjrPjiPLHY=</DigestValue></Reference></SignedInfo><SignatureValue>etbGeNh3RPINlxhMbUEVikKWpcBkqHWWa7kkJRMLM0EsX/gskQJNa13xXeBpnmPNr0b0tavfcB/V&#13;
+EPsjs5qhishDz0RuLiN8zn2MnmXgsRf+0osLD88pc8vfzLE7QZDUFb6DceE9imwD8PWtn2U5yXfa&#13;
+3PenFky34VSphyk8aZQbEHMoJp3QXlBkRWn2HtDqTTmv8tsgfcsMmMETGzM9kPLmGkHXZ2rFhG1Y&#13;
+AZYH2pmiYeIZfwFgAv/80AtEi94m1HX7Oynqa8yRA+tGznartZHgJOI5C6ldsefT8TEH9Jq2ne8V&#13;
+4VBe5sC31HKAeZNlWQgUkizeV7Caw63fHFtZeQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Ivor Online Client,OU=Unit,O=Organization,L=City,ST=State,C=ST</X509SubjectName><X509Certificate>MIIDmTCCAoGgAwIBAgIEVdLGZzANBgkqhkiG9w0BAQsFADBvMQswCQYDVQQGEwJTVDEOMAwGA1UE&#13;
+CBMFU3RhdGUxDTALBgNVBAcTBENpdHkxFTATBgNVBAoTDE9yZ2FuaXphdGlvbjENMAsGA1UECxME&#13;
+VW5pdDEbMBkGA1UEAxMSSXZvciBPbmxpbmUgQ2xpZW50MB4XDTIxMDUxMTEzMzc1NVoXDTMxMDUw&#13;
+OTEzMzc1NVowbzELMAkGA1UEBhMCU1QxDjAMBgNVBAgTBVN0YXRlMQ0wCwYDVQQHEwRDaXR5MRUw&#13;
+EwYDVQQKEwxPcmdhbml6YXRpb24xDTALBgNVBAsTBFVuaXQxGzAZBgNVBAMTEkl2b3IgT25saW5l&#13;
+IENsaWVudDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALz2DtGBShfVZopKYHxYjEnA&#13;
+mRNZOWSJzMjm+GAC3iX7MUpxDqBWzqT3wvTAwS6EsQx3TUApwAlbrkWOuqedsWlHE4rjiah4n3hp&#13;
+zalf1afBOJ/dVL2giB+DrxLIYFm3INVYEgbLcC2hEKgqBBchw1EFq51V2bWiq6jqAL9jPgjMFLcQ&#13;
+Y/F2zrxltGHu6H06Iy+MQYCDKU5foj4QkiRlVRSKzriAV7/1AncyLS2YyvKfkFe2HU+t5UjN5h4G&#13;
+UDlX0xHikNP83g1XhY+0yILKDp1lsHNW8w32hONIFpBp9hwG7Y84O9zsQreKF9a+Erc1C3vWOqqz&#13;
+nbeCxk3j7W3sHG0CAwEAAaM9MDswHQYDVR0OBBYEFFJCariYQjyOhQhLnX89nD2u49UrMBoGA1Ud&#13;
+EQQTMBGCCWxvY2FsaG9zdIcEfwAAATANBgkqhkiG9w0BAQsFAAOCAQEAp/9ihM8HigZPAF/2V4Pj&#13;
+NNiOUIX5hB3HwAEoD8d1HrhcFxklT/Oibc2VeQAXOhYBneihWqw98ZZYpsP7rXhgGo+jctxJhtU9&#13;
+dkKzoXBkzYYdS39X8W4wRrPXoCxg15nLf2yGBHXoYyc+zG7PqrECUrhYc/mRuTuKvYWsQU6zIfqE&#13;
+fIfdHgDOMtSQPE5Q0snXZnZgPis0VdV0u7xaa40RlcMc+nZGvokEsFuI6PHC4rgYvbOmd7fDDlfY&#13;
+4nwkNAaOyMr+MAb39+ddsQ0dyfgzJvWfGodzC6SY8bN/uRA8OIS9qV4z1n/jYXUWmztMj3SyacXl&#13;
+nHcAFrE0iAua9YK67g==</X509Certificate></X509Data></KeyInfo></Signature></Person>
